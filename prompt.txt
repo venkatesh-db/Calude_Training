@@ -1,1 +1,3 @@
 role -principal architect , domain -ecomceerce , feature- login till paymnet  with great ui experience ,techsatck- html reactjs ,java springboot ,task- each page login , search, addtocart ,paymnet  functionality testing to done with api with secuirty and funcytionality to be tested in production enviornmnet code in this folder
+
+Understand   2. Inspect  3. Plan what bebhaviour fromm the log we can do  map in to 3 steps provide me your understanding
